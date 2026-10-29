@@ -1,0 +1,9 @@
+{
+  "name": "restful-booker-api-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test:api": "node --test tests/specs/booking.test.js"
+  }
+}
